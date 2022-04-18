@@ -1,0 +1,82 @@
+[
+    {
+      "id": "6249e586c0fdb19d6e4ecc4d",
+      "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 30,
+      "name": "Kathleen Leblanc",
+      "comment": "Not perfect but quite reasonably priced. Customer Service experiences have been good.",
+      "rating": 2
+    },
+    {
+      "id": "6249e586768d8eda20b93e44",
+      "picture": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 38,
+      "name": "Cynthia Crawford",
+      "comment": "You can easily get used to it and it's very handy",
+      "rating": 4
+    },
+    {
+      "id": "6249e586634ae6cf01b1867d",
+      "picture": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 22,
+      "name": "Dand Marks",
+      "comment": " like everything about the software, it's very easy to use, you can track all the pipeline of candidates, interact with people who are involved in hiring process and rate the candidates. 10/10 ",
+      "rating": 4
+    },
+    {
+      "id": "6249e586a3f37f675499f7a3",
+      "picture": "https://images.pexels.com/photos/2890840/pexels-photo-2890840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 31,
+      "name": "Ericka Bentley",
+      "comment": "It has a mobile app and it has a pipeline feature",
+      "rating": 5
+    },
+    {
+      "id": "6249e5869862b7285930f397",
+      "picture": "https://images.pexels.com/photos/2112728/pexels-photo-2112728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 36,
+      "name": "Villarreal Woods",
+      "comment": "Recruitee is pretty easy to use, and the team was onboarded with no problem. the kanban view of candidates is very convenient, and the stages can be adapted to our own recruitment process as well",
+      "rating": 5
+    },
+    {
+      "id": "6249e586411e0bacd6289584",
+      "picture": "https://images.pexels.com/photos/3919865/pexels-photo-3919865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 20,
+      "name": "Green Alvarez",
+      "comment": "ecruitee helps us to streamline our recruiting and onboarding process. It forces us to follow guidelines and deadlines and make our process much more professional.",
+      "rating": 3
+    },
+    {
+      "id": "6249e5861047d07abdc14abb",
+      "picture": "https://images.pexels.com/photos/2932728/pexels-photo-2932728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 40,
+      "name": "Lena Spears",
+      "comment": "Help us to find good and reliable Candidates for all the skills. Very Easy to Find Best and genuine profiles ",
+      "rating": 4
+    },
+    {
+      "id": "6249e58652af11ec0910ca03",
+      "picture": "https://images.pexels.com/photos/2975405/pexels-photo-2975405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 27,
+      "name": "Shelton Kerr",
+      "comment": "Worked for 1 year now will not do anything will not even respond... very disappointed. Was happy when it did worked we showed all of our friends what a great item it was but now it won't even set an alarm for us. Have tried reseting I and still no results.",
+      "rating": 5
+    },
+    {
+      "id": "6249e5860c82fa07c84da9ad",
+      "picture": "https://images.pexels.com/photos/4069236/pexels-photo-4069236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 28,
+      "name": "Jill Fulton",
+      "comment": "pdate:  I recieved an email from an Amazon rep telling me that I must be doing something wrong and there's nothing wrong with my Echo.  I replied and told him that I know what I'm doing and that it loses its connection to my network and the only way to reconnect it is to unplug it and go through the setup process every other day. Why won't it remember the settings and why is it constantly dropping?  I never heard back from Amazon after I explained this to them. I would throw this Echo in the lake if my wife would let me. A waste of $180.",
+      "rating": 2
+    },
+    {
+      "id": "6249e5860c82fw019c84da9ad",
+      "picture": "https://images.pexels.com/photos/2728649/pexels-photo-2728649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 20,
+      "name": "Shahela khatun",
+      "comment": "It worked for one day and then it didn't work at all. It's a WiFi issue, with a very complicated fix.  A fix that I just don't have time to muddle through.  It's just supposed to work.  They want me to split my WiFi blah blah blah, come on Amazon, do better.  If it worked fine one day there is no reason it shouldn't have worked after that, so now it just sits on my desk.  I wanted to like it, and I did, or one day.",
+      "rating": 4
+    }
+  ]
